@@ -1,0 +1,1156 @@
+[
+    {
+        "name": "Affenpinscher",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 4,
+        "aggression": 5,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Afghan Hound",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 5,
+        "aggression": 4,
+        "trainability": 3,
+        "energy_level": 6
+    },
+    {
+        "name": "Airedale Terrier",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 6,
+        "aggression": 5,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Akita",
+        "size": 8,
+        "weight": 9,
+        "lifespan": 5,
+        "aggression": 8,
+        "trainability": 5,
+        "energy_level": 6
+    },
+    {
+        "name": "Alaskan Malamute",
+        "size": 8,
+        "weight": 9,
+        "lifespan": 5,
+        "aggression": 5,
+        "trainability": 4,
+        "energy_level": 7
+    },
+    {
+        "name": "American Bulldog",
+        "size": 7,
+        "weight": 8,
+        "lifespan": 6,
+        "aggression": 7,
+        "trainability": 5,
+        "energy_level": 6
+    },
+    {
+        "name": "American Pit Bull Terrier",
+        "size": 6,
+        "weight": 7,
+        "lifespan": 6,
+        "aggression": 8,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "American Staffordshire Terrier",
+        "size": 6,
+        "weight": 7,
+        "lifespan": 6,
+        "aggression": 7,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Anatolian Shepherd Dog",
+        "size": 9,
+        "weight": 9,
+        "lifespan": 5,
+        "aggression": 6,
+        "trainability": 5,
+        "energy_level": 6
+    },
+    {
+        "name": "Australian Cattle Dog",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 6,
+        "trainability": 8,
+        "energy_level": 9
+    },
+    {
+        "name": "Australian Shepherd",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 5,
+        "trainability": 8,
+        "energy_level": 9
+    },
+    {
+        "name": "Australian Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 5,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Basenji",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 6,
+        "aggression": 5,
+        "trainability": 4,
+        "energy_level": 7
+    },
+    {
+        "name": "Basset Hound",
+        "size": 4,
+        "weight": 5,
+        "lifespan": 6,
+        "aggression": 3,
+        "trainability": 3,
+        "energy_level": 4
+    },
+    {
+        "name": "Beagle",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Bearded Collie",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 6,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 8
+    },
+    {
+        "name": "Bernese Mountain Dog",
+        "size": 9,
+        "weight": 9,
+        "lifespan": 4,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Bichon Frise",
+        "size": 3,
+        "weight": 2,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Border Collie",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 5,
+        "trainability": 10,
+        "energy_level": 10
+    },
+    {
+        "name": "Border Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 8,
+        "energy_level": 8
+    },
+    {
+        "name": "Borzoi",
+        "size": 8,
+        "weight": 8,
+        "lifespan": 5,
+        "aggression": 3,
+        "trainability": 5,
+        "energy_level": 6
+    },
+    {
+        "name": "Boston Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 6,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Boxer",
+        "size": 7,
+        "weight": 7,
+        "lifespan": 6,
+        "aggression": 6,
+        "trainability": 7,
+        "energy_level": 8
+    },
+    {
+        "name": "Boykin Spaniel",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 8,
+        "energy_level": 8
+    },
+    {
+        "name": "Brittany",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 9,
+        "energy_level": 9
+    },
+    {
+        "name": "Brussels Griffon",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 6,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Bull Terrier",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 6,
+        "aggression": 7,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Bulldog",
+        "size": 5,
+        "weight": 6,
+        "lifespan": 5,
+        "aggression": 3,
+        "trainability": 5,
+        "energy_level": 4
+    },
+    {
+        "name": "Bullmastiff",
+        "size": 8,
+        "weight": 9,
+        "lifespan": 5,
+        "aggression": 6,
+        "trainability": 5,
+        "energy_level": 5
+    },
+    {
+        "name": "Cairn Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 5,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Cavalier King Charles Spaniel",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Chesapeake Bay Retriever",
+        "size": 6,
+        "weight": 7,
+        "lifespan": 6,
+        "aggression": 5,
+        "trainability": 8,
+        "energy_level": 8
+    },
+    {
+        "name": "Chihuahua",
+        "size": 1,
+        "weight": 1,
+        "lifespan": 8,
+        "aggression": 5,
+        "trainability": 5,
+        "energy_level": 6
+    },
+    {
+        "name": "Chinese Crested",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Chow Chow",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 5,
+        "aggression": 6,
+        "trainability": 4,
+        "energy_level": 5
+    },
+    {
+        "name": "Cocker Spaniel",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 8,
+        "energy_level": 7
+    },
+    {
+        "name": "Collie",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 9,
+        "energy_level": 8
+    },
+    {
+        "name": "Dachshund",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 5,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Dalmatian",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 6,
+        "aggression": 5,
+        "trainability": 7,
+        "energy_level": 8
+    },
+    {
+        "name": "Doberman Pinscher",
+        "size": 7,
+        "weight": 8,
+        "lifespan": 5,
+        "aggression": 8,
+        "trainability": 8,
+        "energy_level": 8
+    },
+    {
+        "name": "English Setter",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 6,
+        "aggression": 4,
+        "trainability": 8,
+        "energy_level": 8
+    },
+    {
+        "name": "French Bulldog",
+        "size": 3,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 6,
+        "energy_level": 5
+    },
+    {
+        "name": "German Shepherd",
+        "size": 7,
+        "weight": 7,
+        "lifespan": 6,
+        "aggression": 7,
+        "trainability": 10,
+        "energy_level": 9
+    },
+    {
+        "name": "Golden Retriever",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 9,
+        "energy_level": 8
+    },
+    {
+        "name": "Great Dane",
+        "size": 10,
+        "weight": 10,
+        "lifespan": 4,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Havanese",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Irish Setter",
+        "size": 7,
+        "weight": 7,
+        "lifespan": 6,
+        "aggression": 4,
+        "trainability": 8,
+        "energy_level": 9
+    },
+    {
+        "name": "Irish Wolfhound",
+        "size": 10,
+        "weight": 10,
+        "lifespan": 4,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Jack Russell Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 5,
+        "trainability": 7,
+        "energy_level": 9
+    },
+    {
+        "name": "Labrador Retriever",
+        "size": 6,
+        "weight": 7,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 10,
+        "energy_level": 9
+    },
+    {
+        "name": "Maltese",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 3,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Newfoundland",
+        "size": 9,
+        "weight": 10,
+        "lifespan": 5,
+        "aggression": 3,
+        "trainability": 8,
+        "energy_level": 6
+    },
+    {
+        "name": "Papillon",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 3,
+        "trainability": 9,
+        "energy_level": 7
+    },
+    {
+        "name": "Pembroke Welsh Corgi",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 8,
+        "energy_level": 7
+    },
+    {
+        "name": "Petit Basset Griffon Vendeen",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 6,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Pharaoh Hound",
+        "size": 6,
+        "weight": 5,
+        "lifespan": 6,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Plott",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 6,
+        "aggression": 5,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Pointer",
+        "size": 7,
+        "weight": 6,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 8,
+        "energy_level": 9
+    },
+    {
+        "name": "Pomeranian",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 5,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Poodle",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 10,
+        "energy_level": 7
+    },
+    {
+        "name": "Portuguese Water Dog",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 8,
+        "energy_level": 8
+    },
+    {
+        "name": "Pug",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 6,
+        "aggression": 3,
+        "trainability": 5,
+        "energy_level": 5
+    },
+    {
+        "name": "Puli",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Rhodesian Ridgeback",
+        "size": 8,
+        "weight": 8,
+        "lifespan": 6,
+        "aggression": 6,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Rottweiler",
+        "size": 8,
+        "weight": 9,
+        "lifespan": 6,
+        "aggression": 8,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Saint Bernard",
+        "size": 10,
+        "weight": 10,
+        "lifespan": 4,
+        "aggression": 4,
+        "trainability": 5,
+        "energy_level": 5
+    },
+    {
+        "name": "Saluki",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Samoyed",
+        "size": 7,
+        "weight": 7,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 8
+    },
+    {
+        "name": "Schipperke",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Scottish Deerhound",
+        "size": 9,
+        "weight": 9,
+        "lifespan": 5,
+        "aggression": 3,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Scottish Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 6,
+        "aggression": 5,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Sealyham Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 6,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Shetland Sheepdog",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 9,
+        "energy_level": 8
+    },
+    {
+        "name": "Shiba Inu",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 6,
+        "trainability": 5,
+        "energy_level": 7
+    },
+    {
+        "name": "Shih Tzu",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 5,
+        "energy_level": 5
+    },
+    {
+        "name": "Siberian Husky",
+        "size": 7,
+        "weight": 7,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 9
+    },
+    {
+        "name": "Silky Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Soft-Coated Wheaten Terrier",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Staffordshire Bull Terrier",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 6,
+        "aggression": 7,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Standard Schnauzer",
+        "size": 6,
+        "weight": 6,
+        "lifespan": 7,
+        "aggression": 5,
+        "trainability": 8,
+        "energy_level": 7
+    },
+    {
+        "name": "Sussex Spaniel",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 6,
+        "aggression": 3,
+        "trainability": 5,
+        "energy_level": 5
+    },
+    {
+        "name": "Tibetan Mastiff",
+        "size": 9,
+        "weight": 9,
+        "lifespan": 6,
+        "aggression": 7,
+        "trainability": 5,
+        "energy_level": 6
+    },
+    {
+        "name": "Tibetan Spaniel",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Tibetan Terrier",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Toy Fox Terrier",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 5,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Vizsla",
+        "size": 7,
+        "weight": 7,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 8,
+        "energy_level": 9
+    },
+    {
+        "name": "Weimaraner",
+        "size": 8,
+        "weight": 8,
+        "lifespan": 6,
+        "aggression": 5,
+        "trainability": 8,
+        "energy_level": 8
+    },
+    {
+        "name": "Welsh Springer Spaniel",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "West Highland White Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Whippet",
+        "size": 6,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Yorkshire Terrier",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Wire-haired Fox Terrier",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 5,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Weimaraner",
+        "size": 7,
+        "weight": 7,
+        "lifespan": 6,
+        "aggression": 5,
+        "trainability": 8,
+        "energy_level": 9
+    },
+    {
+        "name": "Welsh Springer Spaniel",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "West Highland White Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Whippet",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 8
+    },
+    {
+        "name": "Xoloitzcuintli",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "African Hunting Dog",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 6,
+        "aggression": 5,
+        "trainability": 6,
+        "energy_level": 9
+    },
+    {
+        "name": "Appenzeller",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 8
+    },
+    {
+        "name": "Bedlington Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 8,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Blenheim Spaniel",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 2,
+        "trainability": 6,
+        "energy_level": 5
+    },
+    {
+        "name": "Bloodhound",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 6,
+        "aggression": 2,
+        "trainability": 4,
+        "energy_level": 5
+    },
+    {
+        "name": "Bluetick Coonhound",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 5,
+        "energy_level": 7
+    },
+    {
+        "name": "Bouvier des Flandres",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Brabancon Griffon",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 3,
+        "trainability": 6,
+        "energy_level": 5
+    },
+    {
+        "name": "Briard",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Cardigan Welsh Corgi",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 8,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Clumber Spaniel",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 2,
+        "trainability": 5,
+        "energy_level": 4
+    },
+    {
+        "name": "Curly-coated Retriever",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 8
+    },
+    {
+        "name": "Dandie Dinmont Terrier",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 3,
+        "trainability": 6,
+        "energy_level": 5
+    },
+    {
+        "name": "English Foxhound",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 5,
+        "energy_level": 8
+    },
+    {
+        "name": "English Springer Spaniel",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Entlebucher Mountain Dog",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 8
+    },
+    {
+        "name": "Flat-coated Retriever",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 2,
+        "trainability": 7,
+        "energy_level": 8
+    },
+    {
+        "name": "Giant Schnauzer",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 5,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Gordon Setter",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Great Pyrenees",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 5,
+        "energy_level": 6
+    },
+    {
+        "name": "Groenendael",
+        "size": 5,
+        "weight": 5,
+        "lifespan": 7,
+        "aggression": 4,
+        "trainability": 7,
+        "energy_level": 8
+    },
+    {
+        "name": "Ibizan Hound",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 2,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Irish Terrier",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 8,
+        "aggression": 4,
+        "trainability": 6,
+        "energy_level": 7
+    },
+    {
+        "name": "Irish Water Spaniel",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 7
+    },
+    {
+        "name": "Italian Greyhound",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 2,
+        "trainability": 6,
+        "energy_level": 6
+    },
+    {
+        "name": "Japanese Spaniel",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 2,
+        "trainability": 6,
+        "energy_level": 5
+    },
+    {
+        "name": "Keeshond",
+        "size": 3,
+        "weight": 3,
+        "lifespan": 8,
+        "aggression": 3,
+        "trainability": 7,
+        "energy_level": 6
+    },
+    {
+        "name": "Miniature Poodle",
+        "size": 2,
+        "weight": 2,
+        "lifespan": 8,
+        "aggression": 2,
+        "trainability": 8,
+        "energy_level": 6
+    },
+    {
+        "name": "Standard Poodle",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 2,
+        "trainability": 8,
+        "energy_level": 7
+    },
+    {
+        "name": "Toy Poodle",
+        "size": 1,
+        "weight": 1,
+        "lifespan": 8,
+        "aggression": 2,
+        "trainability": 8,
+        "energy_level": 5
+    },
+    {
+        "name": "Walker Hound",
+        "size": 4,
+        "weight": 4,
+        "lifespan": 7,
+        "aggression": 3,
+        "trainability": 6,
+        "energy_level": 8
+    } 
+        
+        
+]
