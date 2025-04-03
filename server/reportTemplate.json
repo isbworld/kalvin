@@ -1,0 +1,248 @@
+{
+  "reportTemplate": {
+    "title": "BREED COMPOSITION ANALYSIS",
+    "header": {
+      "backgroundColor": "#f0f0f0",
+      "textColor": "#333333",
+      "font": "Helvetica-Bold",
+      "fontSize": 22
+    },
+    "petInfo": {
+      "backgroundColor": "#f9f9f9",
+      "borderColor": "#cccccc",
+      "borderRadius": 5,
+      "textColor": "#333333",
+      "labelFont": "Helvetica-Bold",
+      "valueFont": "Helvetica",
+      "fields": [
+        {"label": "Pet Name", "type": "text"},
+        {"label": "Report Date", "type": "date"},
+        {"label": "Report ID", "type": "id"}
+      ],
+      "photo": {
+        "width": 90,
+        "height": 90,
+        "borderColor": "#dddddd"
+      }
+    },
+    "sections": [
+      {
+        "id": "breedComposition",
+        "title": "BREED COMPOSITION",
+        "titleFont": "Helvetica-Bold",
+        "titleSize": 14,
+        "titleColor": "#333333",
+        "table": {
+          "headerBackgroundColor": "#f0f0f0",
+          "alternatingRowColor": "#f9f9f9",
+          "borderColor": "#cccccc",
+          "columns": [
+            {"key": "breed", "title": "Breed", "align": "left"},
+            {"key": "probability", "title": "Probability", "align": "right"}
+          ]
+        }
+      },
+      {
+        "id": "attributes",
+        "title": "ESTIMATED ATTRIBUTES",
+        "titleFont": "Helvetica-Bold",
+        "titleSize": 14,
+        "titleColor": "#333333",
+        "bars": [
+          {
+            "key": "size",
+            "label": "Size", 
+            "min": 1, 
+            "max": 10,
+            "color": "#4361ee"
+          },
+          {
+            "key": "weight",
+            "label": "Weight", 
+            "min": 1, 
+            "max": 10,
+            "color": "#4361ee"
+          },
+          {
+            "key": "aggression",
+            "label": "Aggression", 
+            "min": 1, 
+            "max": 10,
+            "colorRanges": [
+              {"min": 0, "max": 4, "color": "#06d6a0"},
+              {"min": 4, "max": 7, "color": "#ffd166"},
+              {"min": 7, "max": 10, "color": "#ff6b6b"}
+            ]
+          },
+          {
+            "key": "trainability",
+            "label": "Trainability", 
+            "min": 1, 
+            "max": 10,
+            "colorRanges": [
+              {"min": 0, "max": 4, "color": "#ff6b6b"},
+              {"min": 4, "max": 7, "color": "#ffd166"},
+              {"min": 7, "max": 10, "color": "#06d6a0"}
+            ]
+          },
+          {
+            "key": "energy_level",
+            "label": "Energy Level", 
+            "min": 1, 
+            "max": 10,
+            "colorRanges": [
+              {"min": 0, "max": 4, "color": "#06d6a0"},
+              {"min": 4, "max": 7, "color": "#ffd166"},
+              {"min": 7, "max": 10, "color": "#ff6b6b"}
+            ]
+          },
+          {
+            "key": "lifespan",
+            "label": "Lifespan", 
+            "min": 1, 
+            "max": 10,
+            "colorRanges": [
+              {"min": 0, "max": 4, "color": "#ff6b6b"},
+              {"min": 4, "max": 7, "color": "#ffd166"},
+              {"min": 7, "max": 10, "color": "#06d6a0"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "careRecommendations",
+        "title": "CARE RECOMMENDATIONS",
+        "titleFont": "Helvetica-Bold",
+        "titleSize": 14,
+        "titleColor": "#333333",
+        "backgroundColor": "#f9f9f9",
+        "borderColor": "#cccccc",
+        "borderRadius": 5,
+        "subsections": [
+          {
+            "id": "exerciseNeeds",
+            "title": "Exercise Needs",
+            "titleFont": "Helvetica-Bold",
+            "contentFont": "Helvetica",
+            "contentSize": 11,
+            "valueBasedContent": [
+              {
+                "attribute": "energy_level",
+                "ranges": [
+                  {
+                    "min": 7,
+                    "max": 10,
+                    "text": "Your dog has a high energy level. Plan for at least 60 minutes of active exercise daily, including walks, runs, and playtime."
+                  },
+                  {
+                    "min": 4,
+                    "max": 7,
+                    "text": "Your dog has a moderate energy level. Plan for about 30-45 minutes of daily exercise to keep them healthy and happy."
+                  },
+                  {
+                    "min": 0,
+                    "max": 4,
+                    "text": "Your dog has a lower energy level. Short walks and gentle play sessions are sufficient for their exercise needs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "trainingApproach",
+            "title": "Training Approach",
+            "titleFont": "Helvetica-Bold",
+            "contentFont": "Helvetica",
+            "contentSize": 11,
+            "valueBasedContent": [
+              {
+                "attribute": "trainability",
+                "ranges": [
+                  {
+                    "min": 7,
+                    "max": 10,
+                    "text": "With high trainability, your dog will respond well to positive reinforcement methods. They can excel in advanced training activities."
+                  },
+                  {
+                    "min": 4,
+                    "max": 7,
+                    "text": "Your dog has moderate trainability. Be consistent with training sessions and use positive reinforcement for best results."
+                  },
+                  {
+                    "min": 0,
+                    "max": 4,
+                    "text": "Your dog may be more independent-minded. Keep training sessions short and engaging, and be very patient and consistent."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "dietNutrition",
+            "title": "Diet & Nutrition",
+            "titleFont": "Helvetica-Bold",
+            "contentFont": "Helvetica",
+            "contentSize": 11,
+            "valueBasedContent": [
+              {
+                "attribute": "size",
+                "ranges": [
+                  {
+                    "min": 7,
+                    "max": 10,
+                    "text": "Large dogs require specially formulated food with balanced nutrition to support healthy joints and prevent common large-breed issues."
+                  },
+                  {
+                    "min": 4,
+                    "max": 7,
+                    "text": "Medium-sized dogs need balanced nutrition with appropriate portion control to maintain a healthy weight."
+                  },
+                  {
+                    "min": 0,
+                    "max": 4,
+                    "text": "Small dogs have high metabolisms but need carefully portioned meals to prevent obesity, which is common in smaller breeds."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "healthConsiderations",
+            "title": "Health Considerations",
+            "titleFont": "Helvetica-Bold",
+            "contentFont": "Helvetica",
+            "contentSize": 11,
+            "content": "Regular veterinary check-ups are essential. With the breeds identified, watch for breed-specific health issues and maintain preventative care."
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "backgroundColor": "#4F46E5",
+      "textColor": "#FFFFFF",
+      "title": "DNA ANALYSIS ORDER INFORMATION",
+      "titleFont": "Helvetica-Bold",
+      "titleSize": 12,
+      "content": "Order comprehensive genetic testing to verify breed composition and health markers.",
+      "contentFont": "Helvetica",
+      "contentSize": 10,
+      "copyright": {
+        "textColor": "#666666",
+        "font": "Helvetica",
+        "fontSize": 8,
+        "format": "Report #{reportId} | Generated on {date}"
+      }
+    },
+    "pageDecoration": {
+      "border": {
+        "color": "#333333", 
+        "width": 1,
+        "margin": 30,
+        "corners": {
+          "size": 15,
+          "lineWidth": 1.5
+        }
+      }
+    }
+  }
+}
